@@ -46,8 +46,7 @@ DROP COLUMN name;
 
 
 
---4. Delete the address and email column and replace it with contact info (Address, email) as
-object/Composite Data type.
+--4. Delete the address and email column and replace it with contact info (Address, email) as object/Composite Data type.
 
 
 -- Step 1: Create a composite type for contact_info
