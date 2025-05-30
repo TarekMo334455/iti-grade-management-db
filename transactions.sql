@@ -133,7 +133,7 @@ FROM Students;
 
 
 
-Add new exam result, in date column use NOW() function;
+--Add new exam result, in date column use NOW() function;
 
 INSERT INTO Exams (subject_id, exam_date)
 VALUES (2, NOW());
